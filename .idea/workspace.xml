@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a4e9593-e90c-40a9-99ef-9f58e07b4919" name="Default" comment="" />
+    <ignored path="revive.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="revive" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="network-index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/admin/network-index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.0">
+              <caret line="139" column="45" selection-start-line="139" selection-start-column="45" selection-end-line="139" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="advertiser-index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/admin/advertiser-index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.75">
+              <caret line="93" column="45" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Campaigns.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/max/Dal/Admin/Campaigns.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5833335">
+              <caret line="627" column="13" selection-start-line="627" selection-start-column="13" selection-end-line="627" selection-end-column="13" />
+              <folding>
+                <marker date="1432018612000" expanded="true" signature="13146:13479" placeholder="SELECT SUM(d..." />
+                <marker date="1432018612000" expanded="true" signature="14090:14418" placeholder="SELECT SUM(d..." />
+                <marker date="1432018612000" expanded="true" signature="15004:15337" placeholder="SELECT SUM(d..." />
+                <marker date="1432018612000" expanded="true" signature="22769:23215" placeholder="SELECT m.cam..." />
+                <marker date="1432018612000" expanded="true" signature="25491:25807" placeholder="SELECT campa..." />
+                <marker date="1432018612000" expanded="true" signature="26843:27368" placeholder="SELECT m.cam..." />
+                <marker date="1432018612000" expanded="true" signature="31084:31720" placeholder="SELECT ${{$p..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="network-index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/templates/admin/network-index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5">
+              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="network-index-list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/templates/admin/network-index-list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.9803921">
+              <caret line="36" column="101" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/OA/Admin/Template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.041667">
+              <caret line="119" column="34" selection-start-line="119" selection-start-column="34" selection-end-line="119" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="advertiser-delete.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/admin/advertiser-delete.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.875">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="network-delete.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/admin/network-delete.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8550296">
+              <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.lang.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/max/language/en/default.lang.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.291667">
+              <caret line="616" column="13" selection-start-line="616" selection-start-column="13" selection-end-line="616" selection-end-column="13" />
+              <folding>
+                <marker date="1442878041000" expanded="true" signature="35615:35896" placeholder="..." />
+                <marker date="1442878041000" expanded="true" signature="45606:46127" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Networks.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/max/Dal/Admin/Networks.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="5.2941175">
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+              <folding>
+                <element signature="e#7#558#0#PHP" expanded="true" />
+                <marker date="1442914283000" expanded="true" signature="1978:2338" placeholder="SELECT c.cli..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/templates/admin/admin-search.html" />
+        <option value="$PROJECT_DIR$/www/admin/advertiser-index.php" />
+        <option value="$PROJECT_DIR$/lib/OA/Admin/UI/model/InventoryPageHeaderModelBuilder.php" />
+        <option value="$PROJECT_DIR$/www/admin/network-publisher.php" />
+        <option value="$PROJECT_DIR$/lib/templates/admin/network-publisher-list.html" />
+        <option value="$PROJECT_DIR$/var/localhost.conf.php" />
+        <option value="$PROJECT_DIR$/www/admin/affiliate-edit.php" />
+        <option value="$PROJECT_DIR$/lib/OA/Dal/Statistics/Network.php" />
+        <option value="$PROJECT_DIR$/www/admin/lib-statistics.inc.php" />
+        <option value="$PROJECT_DIR$/lib/OA/Dll/NetworkInfo.php" />
+        <option value="$PROJECT_DIR$/lib/OA/Dal.php" />
+        <option value="$PROJECT_DIR$/lib/OA/Dll.php" />
+        <option value="$PROJECT_DIR$/lib/OA/Dll/Publisher.php" />
+        <option value="$PROJECT_DIR$/lib/OA/Dll/Network.php" />
+        <option value="$PROJECT_DIR$/lib/OA/Permission.php" />
+        <option value="$PROJECT_DIR$/lib/OA/Admin/Menu.php" />
+        <option value="$PROJECT_DIR$/lib/OA/Admin/Menu/config.php" />
+        <option value="$PROJECT_DIR$/lib/templates/admin/advertiser-index-list.html" />
+        <option value="$PROJECT_DIR$/lib/templates/admin/network-index.html" />
+        <option value="$PROJECT_DIR$/lib/max/language/en/default.lang.php" />
+        <option value="$PROJECT_DIR$/lib/max/other/html.php" />
+        <option value="$PROJECT_DIR$/lib/templates/admin/network-edit.html" />
+        <option value="$PROJECT_DIR$/www/admin/network-edit.php" />
+        <option value="$PROJECT_DIR$/var/tables_core.xml" />
+        <option value="$PROJECT_DIR$/lib/max/Dal/DataObjects/db_schema.ini" />
+        <option value="$PROJECT_DIR$/lib/max/Dal/DataObjects/db_schema.links.ini" />
+        <option value="$PROJECT_DIR$/lib/max/Dal/DataObjects/Networks.php" />
+        <option value="$PROJECT_DIR$/lib/templates/admin/network-index-list.html" />
+        <option value="$PROJECT_DIR$/www/admin/network-index.php" />
+        <option value="$PROJECT_DIR$/lib/max/Dal/Admin/Networks.php" />
+        <option value="$PROJECT_DIR$/www/admin/network-delete.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="revive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="revive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="revive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="revive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="revive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="revive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="revive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="advertiser-delete&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/advertiser-delete.php&#10;netwo&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/network-index.php&#10;network-&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/network-index.php&#10;Affiliates&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/max/Dal/Admin/Affiliates.php&#10;networks&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/max/Dal/Admin/Networks.php&#10;adverti&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/advertiser-index.php&#10;network&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/network-index.php&#10;network-index&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/network-index.php&#10;Networks&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/max/Dal/Admin/Networks.php&#10;Networ&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/max/Dal/DataObjects/Networks.php&#10;DB_DataObjectCommon&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/max/Dal/DataObjects/DB_DataObjectCommon.php&#10;tables&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/etc/tables_core.xml&#10;Dal.php&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Dal.php&#10;affil&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/templates/admin/affiliate-edit.html&#10;advertie&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/templates/admin/advertiser-edit.html&#10;config.p&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Admin/Menu/config.php&#10;menu&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Admin/Menu.php&#10;advertiser-edit&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/advertiser-edit.php&#10;ad&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/templates/admin/advertiser-index-list.html&#10;advertiser-in&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/templates/admin/advertiser-index-list.html&#10;advertiser-inde&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/templates/admin/advertiser-index.html&#10;advertiser-index&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/advertiser-index.php&#10;networ&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/templates/admin/network-edit.html&#10;db&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/max/Dal/DataObjects/db_schema.links.ini&#10;db_schema&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/max/Dal/DataObjects/db_schema.ini&#10;Network&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Dll/Network.php&#10;networkId&#9;null&#9;null&#10;Network.php&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Dll/Network.php&#10;publisher.php&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Dll/Publisher.php&#10;affiliate-edit&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/affiliate-edit.php&#10;Session&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/max/Dal/Admin/Session.php&#10;Session.php&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/max/Dal/DataObjects/Session.php&#10;PublisherInfo&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Dll/PublisherInfo.php&#10;publisher&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Dll/Publisher.php&#10;network.php&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Dll/Network.php&#10;networkinfo&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Dll/NetworkInfo.php&#10;PublisherInf&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Dll/PublisherInfo.php&#10;affiliate&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/affiliate-edit.php&#10;advertiser-&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/advertiser-edit.php&#10;network-edit&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/network-edit.php&#10;websi&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/website-index.php&#10;publ&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Dll/Publisher.php&#10;network-pub&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/network-publisher.php&#10;network-e&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/network-edit.php&#10;html.php&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/max/other/html.php&#10;Form.php&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Admin/UI/component/Form.php&#10;publisherinfo&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/lib/OA/Dll/PublisherInfo.php&#10;netwoek&#9;null&#9;null&#10;affiliate-edit.php&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/www/admin/affiliate-edit.php&#10;debug.log&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/revive/var/debug.log" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a4e9593-e90c-40a9-99ef-9f58e07b4919" name="Default" comment="" />
+      <created>1442818322254</created>
+      <option name="number" value="Default" />
+      <updated>1442818322254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="721" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38114753" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33914423" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280507" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28142077" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280507" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2657512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/OA/Dal/Statistics/Publisher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32345015">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/admin/lib-statistics.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.875">
+          <caret line="270" column="81" selection-start-line="270" selection-start-column="81" selection-end-line="270" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/OA/Dll/PublisherInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="31" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/xmlrpc/php/openads-api-xmlrpc.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1127" column="19" selection-start-line="1127" selection-start-column="19" selection-end-line="1127" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/admin/assets/js/ox.ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="380" column="9" selection-start-line="380" selection-start-column="9" selection-end-line="380" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/DataObjects/Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/OA/Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/Admin/Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/DataObjects/Affiliates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="49" column="83" selection-start-line="49" selection-start-column="83" selection-end-line="49" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/OA/DB/Table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28691983">
+          <caret line="667" column="54" selection-start-line="667" selection-start-column="54" selection-end-line="667" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pear/HTML/QuickForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0421941">
+          <caret line="1500" column="13" selection-start-line="1500" selection-start-column="13" selection-end-line="1500" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/OA/Dll/Publisher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-30.0">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/OA/Dll.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="316" column="37" selection-start-line="316" selection-start-column="28" selection-end-line="316" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Admin_DA.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4340045">
+          <caret line="1340" column="46" selection-start-line="1340" selection-start-column="37" selection-end-line="1340" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/admin/affiliate-edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.50735295">
+          <caret line="147" column="29" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/templates/admin/ajax/find-other-networks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/admin/website-index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/other/lib-io.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35021096">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/Admin/Clients.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36708862">
+          <caret line="121" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="135" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/templates/admin/advertiser-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/templates/admin/advertiser-index-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47468355">
+          <caret line="17" column="99" selection-start-line="17" selection-start-column="99" selection-end-line="17" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/OA/Admin/Menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5416666">
+          <caret line="445" column="0" selection-start-line="445" selection-start-column="0" selection-end-line="445" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/OA/Admin/Menu/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9215686">
+          <caret line="181" column="155" selection-start-line="181" selection-start-column="155" selection-end-line="181" selection-end-column="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/OA/Admin/UI/component/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8080169">
+          <caret line="192" column="20" selection-start-line="192" selection-start-column="20" selection-end-line="192" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/admin/advertiser-edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.8607595">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/templates/admin/affiliate-edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43037975">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/other/html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.764706">
+          <caret line="724" column="40" selection-start-line="724" selection-start-column="40" selection-end-line="724" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/templates/admin/network-edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/templates/admin/advertiser-edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="77" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pear/DB/DataObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2882353">
+          <caret line="251" column="13" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/admin/network-edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="142" column="37" selection-start-line="142" selection-start-column="37" selection-end-line="142" selection-end-column="37" />
+          <folding>
+            <element signature="e#7#558#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/OA/Dal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="212" column="69" selection-start-line="212" selection-start-column="58" selection-end-line="212" selection-end-column="69" />
+          <folding>
+            <element signature="e#7#558#0#PHP" expanded="true" />
+            <marker date="1432018612000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1432018612000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/tables_core.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.774194">
+          <caret line="4881" column="17" selection-start-line="4881" selection-start-column="13" selection-end-line="4881" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/tables_core.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.259259">
+          <caret line="1170" column="29" selection-start-line="1170" selection-start-column="29" selection-end-line="1170" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/DataObjects/db_schema.links.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/DataObjects/DB_DataObjectCommon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5368421">
+          <caret line="1376" column="41" selection-start-line="1376" selection-start-column="31" selection-end-line="1376" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/DataObjects/db_schema.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.072034">
+          <caret line="278" column="8" selection-start-line="278" selection-start-column="1" selection-end-line="278" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/DataObjects/Networks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-123.125">
+          <caret line="205" column="45" selection-start-line="205" selection-start-column="45" selection-end-line="205" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/OA/Permission.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="902" column="32" selection-start-line="902" selection-start-column="11" selection-end-line="902" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/DataObjects/Clients.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/Admin/Affiliates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="53.125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1438077020000" expanded="true" signature="-1:-1" placeholder="SELECT a.aff..." />
+            <marker date="1438077020000" expanded="true" signature="-1:-1" placeholder="SELECT w.aff..." />
+            <marker date="1438077020000" expanded="true" signature="-1:-1" placeholder="SELECT w.aff..." />
+            <marker date="1438077020000" expanded="true" signature="-1:-1" placeholder="SELECT w.aff..." />
+            <marker date="1438077020000" expanded="true" signature="-1:-1" placeholder="SELECT p.aff..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/Admin/Campaigns.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5833335">
+          <caret line="627" column="13" selection-start-line="627" selection-start-column="13" selection-end-line="627" selection-end-column="13" />
+          <folding>
+            <marker date="1432018612000" expanded="true" signature="13146:13479" placeholder="SELECT SUM(d..." />
+            <marker date="1432018612000" expanded="true" signature="14090:14418" placeholder="SELECT SUM(d..." />
+            <marker date="1432018612000" expanded="true" signature="15004:15337" placeholder="SELECT SUM(d..." />
+            <marker date="1432018612000" expanded="true" signature="22769:23215" placeholder="SELECT m.cam..." />
+            <marker date="1432018612000" expanded="true" signature="25491:25807" placeholder="SELECT campa..." />
+            <marker date="1432018612000" expanded="true" signature="26843:27368" placeholder="SELECT m.cam..." />
+            <marker date="1432018612000" expanded="true" signature="31084:31720" placeholder="SELECT ${{$p..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/templates/admin/network-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/admin/advertiser-index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75">
+          <caret line="93" column="45" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/admin/network-index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.0">
+          <caret line="139" column="45" selection-start-line="139" selection-start-column="45" selection-end-line="139" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/Dal/Admin/Networks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.2941175">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#7#558#0#PHP" expanded="true" />
+            <marker date="1442914283000" expanded="true" signature="1978:2338" placeholder="SELECT c.cli..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/max/language/en/default.lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.291667">
+          <caret line="616" column="13" selection-start-line="616" selection-start-column="13" selection-end-line="616" selection-end-column="13" />
+          <folding>
+            <marker date="1442878041000" expanded="true" signature="35615:35896" placeholder="..." />
+            <marker date="1442878041000" expanded="true" signature="45606:46127" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/admin/advertiser-delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/OA/Admin/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.041667">
+          <caret line="119" column="34" selection-start-line="119" selection-start-column="34" selection-end-line="119" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/templates/admin/network-index-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9803921">
+          <caret line="36" column="101" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/admin/network-delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8550296">
+          <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
